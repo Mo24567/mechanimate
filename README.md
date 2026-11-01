@@ -1,5 +1,7 @@
 # Mechanimate
 
+[Watch the demo video](https://drive.google.com/file/d/1vPi9NM6kEptHWcuhsGbRuqyUUR9UkARy/view)
+
 **Winner — Best Use of Gemma 4**  
 Hacktoberfest Hack Day Loughborough 2026 · DigiTech × MLH · Team of two
 
